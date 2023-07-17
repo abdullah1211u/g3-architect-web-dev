@@ -197,6 +197,7 @@
     width: 1100px;
     height: 80px;
     margin: 140px 240px 140px 200px;
+    align-items: center;
   }
 
   .footer-text{
@@ -241,6 +242,9 @@
     .my-footer{
       width: 90%;
       margin-left: 20px;
+    }
+    .footer-text{
+      padding: 17px;
     }
   }
 
